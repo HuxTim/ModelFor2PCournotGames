@@ -1,0 +1,1 @@
+# ModelFor2PCournotGames
