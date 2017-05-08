@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{direct}
+Dilip Abreu and Yuliy Sannikov,
+\newblock ``An algorithm for two player repeated games with perfect
+  monitoring,''
+\newblock {\em Theoretical Economics}, 2013.
+
+\bibitem{survey}
+Dilip Abreu, David Pearce, and Ennio Stachetti,
+\newblock ``Toward a theory of discounted repeated games with imperfect
+  monitoring,''
+\newblock {\em Econometrica}, vol. 58, pp. 1041--1063, 2003.
+
+\bibitem{comp}
+Nouri Najjar,
+\newblock ``Game theory portfolio: A computational exploration of the nash
+  equilibrium,''
+\newblock 2009.
+
+\end{thebibliography}
